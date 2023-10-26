@@ -1,0 +1,29 @@
+.card-group h5{
+    color: black;
+    font-family: 'Arial Narrow Bold';
+    font-size: x-large;
+    text-align: center;
+}
+.card-group p{
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    text-align: center;
+}
+.container h1{
+    color: black;
+    font-family: 'Arial Narrow Bold';
+    text-align: center;
+} 
+.container p{
+    color: gray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+.container li{
+    color: gray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+hr{
+    border-top: 2px solid black;
+}
